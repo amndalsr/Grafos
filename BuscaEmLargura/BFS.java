@@ -21,7 +21,7 @@ public class BFS {
     public int[] distancia;
     public int[] ante;
     
-    public void BuscaEmLargura(int s) {
+    public void BuscaEmLargura (int s) {
         for(int i = 0; i < grafo.size(); i++){
             cor[i] = BRANCO;
             distancia[i] = -1;

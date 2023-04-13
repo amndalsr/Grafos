@@ -18,7 +18,7 @@ public class DFS {
         this.grafo = grafo;
     }
  
-    public void dfs_start(int s) {
+    public void dfs_start (int s) {
       int n = grafo.size();
       ante = new int[n];
       i = new int[n];
