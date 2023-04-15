@@ -11,4 +11,4 @@ aprendizado de máquina, entre outros. A teoria dos grafos também tem aplicaç�
 
 A análise de grafos pode ser feita usando algoritmos como busca em profundidade, busca em largura, Dijkstra, Kruskal, Prim, entre outros. 
 Esses algoritmos podem ser usados para encontrar caminhos mais curtos, árvores geradoras mínimas, fluxos máximos, entre outras propriedades do grafo.
-E são justamente esses algoritmos de busca que trago nesse repositório!
+E são justamente esses algoritmos de busca que trago nesse repositório.
