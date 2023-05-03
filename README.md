@@ -1,7 +1,7 @@
 ### Grafos 🫧
 
 Grafos são estruturas matemáticas compostas por vértices (pontos) e arestas (linhas) que conectam esses vértices. 
-Eles são usados para modelar relações entre objetos, como em redes sociais, rotas de transporte, circuitos eletrônicos, entre outros
+Eles são usados para modelar relações entre objetos, como em redes sociais, rotas de transporte, circuitos eletrônicos, entre outros.
 
 Um grafo pode ser direcionado ou não direcionado, dependendo se as arestas têm uma direção ou não. Além disso, cada aresta pode ter 
 um peso associado, que representa uma medida de distância, custo, tempo, entre outros.
